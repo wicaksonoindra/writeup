@@ -9,7 +9,7 @@ Diberikan sebuah file ASCII Text dengan nama "File", langsung cari format flag d
 $ cat file | grep Gemastik
 Gemastik14{gunakan_grep_413ddt4}
 ```
-Ubah Huruf kapital Gemastik14 menjadi gemastik14. Sehingga flag yang benar adalah `geamstik14{gunakan_grep_413ddt4}`
+Ubah Huruf kapital Gemastik14 menjadi gemastik14. Sehingga flag yang benar adalah `gemastik14{gunakan_grep_413ddt4}`
 
 ##### 2. Tzuyu
 ***Format flag: gemastik14{flag}***
