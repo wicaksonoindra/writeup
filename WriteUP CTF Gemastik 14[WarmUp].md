@@ -1,5 +1,5 @@
 # Writeup Gemastik 14 Pemanasan
-### Tim BalaBala, Universitas Sriwijaya
+###### 31 Juli 2002
 
 ### Forensic
 ##### 1. Find Me
